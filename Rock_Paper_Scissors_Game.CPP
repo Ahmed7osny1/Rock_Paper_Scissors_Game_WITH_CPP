@@ -32,7 +32,6 @@ int main()
 char getComputer()
 {
 
-    srand(time(0));
 
     int num = rand() % 3 + 1;
 
